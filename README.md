@@ -22,14 +22,14 @@ Utilizar um datawarehouse traz vários benefícios. A base de dados "Instacart" 
 ### Abaixo fazemos algumas análises utilizando os benefícios que um datawarehouse pode trazer.
 
 
-# Análises de processamento de consulta do DW BIGQUERY 
+# Imagem com Análises de processamento de consulta do DW BIGQUERY 
 
 * [Agrupar as compras por dia da semana (order_dow), horário de compra (order_hour_of_day) e tempo desde a última compra (days_since_prior_order), e calcular a média de itens reordenados](./bigquery/imgs_analises/calcular%20media%20de%20itens.PNG)
 * [Produtos mais comprados:](./bigquery/imgs_analises/Produtos_mais_comprados.PNG)
 * [Horário de compra, agrupa as compras por horário e conta o número total de compras em cada horário.](./bigquery/imgs_analises/horario_do_dia.PNG)
 
 
-# Resultado das análises no DW BIGQUERY
+# Resultado(CSV) das análises no DW BIGQUERY
 
 * [Agrupar as compras por dia da semana (order_dow), horário de compra (order_hour_of_day) e tempo desde a última compra (days_since_prior_order), e calcular a média de itens reordenados](./bigquery/csvs_results/mediadeitensreordenados.csv)
 * [Produtos mais comprados:](./bigquery/csvs_results/Produtos_mais_comprados.csv)
