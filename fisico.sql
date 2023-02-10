@@ -1,3 +1,20 @@
+-- ------------------------------   << InstacartMarketBasket (Trabalho Final)  >>   ------------------------------
+--
+--                                                SCRIPT DE CRIAÇÃO (DDL)                                                
+-- 
+-- Data Criação ...........: 10/02/2023
+-- Autor(es) ..............: Victor, Deivid, Paulo
+-- Banco de Dados .........: MySQL 8.0
+-- Banco de Dados(nome) ...: InstacartMarketBasket
+-- 
+--
+-- PROJETO => 01 Base de Dados
+--         => 06 Tabelas
+--         => 01 Usuários
+-- 
+-- ------------------------------------------------------------------------------------------------------------------------
+
+
 -- Create database InstacartMarketBasket
 CREATE DATABASE IF NOT EXISTS InstacartMarketBasket;
 
