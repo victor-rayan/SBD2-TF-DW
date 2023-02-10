@@ -11,7 +11,7 @@
 
 # Motivação
 
-Utilizar um datawarehouse traz vários benefícios. A base de dados "Instacart" é uma base de dados muito boa e suas análises no datawarehouse, como o BigQuery agregam valor. Abaixo alguma das análises possíveis de se fazer.
+Utilizar um datawarehouse traz vários benefícios. A base de dados "Instacart" é uma base de dados muito boa e suas análises no datawarehouse, como o BigQuery agregam valor. Abaixo algumaS das análises possíveis de se fazer.
 
 * Análise de comportamento de compra: Armazenar a base de dados em um datawarehouse como o BigQuery permite uma análise  eficiente do comportamento de compra dos clientes. Foi possível identificar padrões de compra, recomendar produtos e prever a demanda futura.
 
