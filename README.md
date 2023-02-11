@@ -5,8 +5,8 @@
 ## Componentes do grupo:
 |Aluno  |  Matricula |
 | --------- | ------------------------------------------------------ |
-|Deivid|     | 
-| Paulo|      | 
+|Deivid Alves|190026758| 
+| Paulo Batista| 180054554      | 
 | Victor Ferreira| 190044390 |
 
 # Motivação
